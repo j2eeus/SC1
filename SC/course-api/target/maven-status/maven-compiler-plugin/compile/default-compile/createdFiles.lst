@@ -1,0 +1,6 @@
+com\java\bootstart\POJO\IngredientService.class
+com\java\bootstart\POJO\ProductService.class
+com\java\bootstart\POJO\Product.class
+com\java\bootstart\App.class
+com\java\bootstart\POJO\Ingredient.class
+com\java\bootstart\controller\ProductController.class
